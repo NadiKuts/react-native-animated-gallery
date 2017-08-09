@@ -6,7 +6,10 @@ Concept for image gallery implemented with React Native
 
 Inspired by: https://dribbble.com/shots/3686703-Time-travel-Interaction-in-Gallery
 
-|![Output sample](2.gif)|
+|      Original design      |  Implementation         |
+| ------------------------- |:-----------------------:|
+| ![Output sample](1.gif)|![Output sample](2.gif) |
+
 
 ### Instructions
 
