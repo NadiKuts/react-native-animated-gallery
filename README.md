@@ -1,6 +1,7 @@
 # Animated Image Gallery
 
 Concept for image gallery implemented with React Native
+[Expo Demo](https://expo.io/@devilsanek/animated-gallery)
 
 Inspired by: https://dribbble.com/shots/3686703-Time-travel-Interaction-in-Gallery
 
