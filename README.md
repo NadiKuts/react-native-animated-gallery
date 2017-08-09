@@ -26,5 +26,5 @@ Scan this QR-code with your Expo App.
 
 ![alt text](qr-code.png)
 
-Try it out!
+... or go [here](https://expo.io/@devilsanek/animated-gallery) and try it out!
 
