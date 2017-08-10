@@ -8,7 +8,7 @@ Inspired by: https://dribbble.com/shots/3686703-Time-travel-Interaction-in-Galle
 
 |      Original design      |  Implementation         |
 | ------------------------- |:-----------------------:|
-| ![Output sample](1.gif)|![Output sample](2.gif) |
+| ![Output sample](original.gif)|![Output sample](2.gif) |
 
 
 ### Instructions
