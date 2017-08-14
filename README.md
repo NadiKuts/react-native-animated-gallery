@@ -15,9 +15,9 @@ Inspired by: https://dribbble.com/shots/3686703-Time-travel-Interaction-in-Galle
 
 - [Install NodeJS](https://nodejs.org/en/)
 - [Install and setup React Native](https://facebook.github.io/react-native/docs/getting-started.html)
-- Clone repository: `git clone https://github.com/NadiKuts/AnimatedImageGallery.git`
+- Clone repository: `git clone https://github.com/NadiKuts/react-native-animated-gallery.git`
 
-- Navigate to the created folder: `cd AnimatedImageGallery`
+- Navigate to the created folder: `cd react-native-animated-gallery`
 
 - Install dependencies: `yarn`
 
